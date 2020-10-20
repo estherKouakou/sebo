@@ -6,7 +6,7 @@ export default function Mission() {
             <div className="row align-items-center">
                 <div className="col-xl-6 col-md-6">
                     <div className="about_thumb">
-                        <img src="img/about/about.png" alt=""/>
+                        <img src="images/about/about.png" alt=""/>
                     </div>
                 </div>
                 <div className="col-xl-6 col-md-6">

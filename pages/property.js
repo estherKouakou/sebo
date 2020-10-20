@@ -31,7 +31,7 @@ export default function Property(){
                                         <div className="property_tag">
                                                 For Sale
                                         </div>
-                                        <img src="img/property/1.png" alt=""/>
+                                        <img src="images/property/1.png" alt=""/>
                                     </div>
                                     <div className="property_content">
                                         <div className="main_pro">
@@ -40,7 +40,7 @@ export default function Property(){
                                                     
                                                 </h3>
                                                 <div className="mark_pro">
-                                                    <img src="img/svg_icon/location.svg" alt=""/>
+                                                    <img src="images/svg_icon/location.svg" alt=""/>
                                                     <span>Popular Properties</span>
                                                 </div>
                                                 <span className="amount">From $20k</span>
@@ -50,19 +50,19 @@ export default function Property(){
                                             <ul>
                                                 <li>
                                                     <div className="single_info_doc">
-                                                        <img src="img/svg_icon/square.svg" alt=""/>
+                                                        <img src="images/svg_icon/square.svg" alt=""/>
                                                         <span>1200 Sqft</span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div className="single_info_doc">
-                                                        <img src="img/svg_icon/bed.svg" alt=""/>
+                                                        <img src="images/svg_icon/bed.svg" alt=""/>
                                                         <span>2 Bed</span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div className="single_info_doc">
-                                                        <img src="img/svg_icon/bath.svg" alt=""/>
+                                                        <img src="images/svg_icon/bath.svg" alt=""/>
                                                         <span>2 Bath</span>
                                                     </div>
                                                 </li>
@@ -76,7 +76,7 @@ export default function Property(){
                                         <div className="property_tag red">
                                                 For Rent
                                         </div>
-                                        <img src="img/property/2.png" alt=""/>
+                                        <img src="images/property/2.png" alt=""/>
                                     </div>
                                     <div className="property_content">
                                         <div className="main_pro">
@@ -85,7 +85,7 @@ export default function Property(){
                                                     
                                                 </h3>
                                                 <div className="mark_pro">
-                                                    <img src="img/svg_icon/location.svg" alt=""/>
+                                                    <img src="images/svg_icon/location.svg" alt=""/>
                                                     <span>Popular Properties</span>
                                                 </div>
                                                 <span className="amount">$563/month</span>
@@ -95,19 +95,19 @@ export default function Property(){
                                             <ul>
                                                 <li>
                                                     <div className="single_info_doc">
-                                                        <img src="img/svg_icon/square.svg" alt=""/>
+                                                        <img src="images/svg_icon/square.svg" alt=""/>
                                                         <span>1200 Sqft</span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div className="single_info_doc">
-                                                        <img src="img/svg_icon/bed.svg" alt=""/>
+                                                        <img src="images/svg_icon/bed.svg" alt=""/>
                                                         <span>2 Bed</span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div className="single_info_doc">
-                                                        <img src="img/svg_icon/bath.svg" alt=""/>
+                                                        <img src="images/svg_icon/bath.svg" alt=""/>
                                                         <span>2 Bath</span>
                                                     </div>
                                                 </li>
@@ -121,7 +121,7 @@ export default function Property(){
                                         <div className="property_tag">
                                                 For Sale
                                         </div>
-                                        <img src="img/property/3.png" alt=""/>
+                                        <img src="images/property/3.png" alt=""/>
                                     </div>
                                     <div className="property_content">
                                         <div className="main_pro">
@@ -130,7 +130,7 @@ export default function Property(){
                                                     
                                                 </h3>
                                                 <div className="mark_pro">
-                                                    <img src="img/svg_icon/location.svg" alt=""/>
+                                                    <img src="images/svg_icon/location.svg" alt=""/>
                                                     <span>Popular Properties</span>
                                                 </div>
                                                 <span className="amount">From $20k</span>
@@ -140,19 +140,19 @@ export default function Property(){
                                             <ul>
                                                 <li>
                                                     <div className="single_info_doc">
-                                                        <img src="img/svg_icon/square.svg" alt=""/>
+                                                        <img src="images/svg_icon/square.svg" alt=""/>
                                                         <span>1200 Sqft</span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div className="single_info_doc">
-                                                        <img src="img/svg_icon/bed.svg" alt=""/>
+                                                        <img src="images/svg_icon/bed.svg" alt=""/>
                                                         <span>2 Bed</span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div className="single_info_doc">
-                                                        <img src="img/svg_icon/bath.svg" alt=""/>
+                                                        <img src="images/svg_icon/bath.svg" alt=""/>
                                                         <span>2 Bath</span>
                                                     </div>
                                                 </li>

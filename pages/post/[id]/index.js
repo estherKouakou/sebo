@@ -22,7 +22,7 @@ const Post = () => {
                         <div className="row">
                             <div className="col-xl-6 col-md-8 col-lg-6">
                                 <div className="comfortable_apartment">
-                                    <h4>[id]</h4>
+                                    <h4>{id}</h4>
                                     <p> <img src="img/svg_icon/location.svg" alt=""/> 200/A, Greenland, Texaro, USA</p>
                                     <div className="quality_quantity d-flex">
                                         <div className="single_quantity">

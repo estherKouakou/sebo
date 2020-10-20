@@ -198,12 +198,12 @@ h3 {
 
 /* line 133, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/theme-default.scss */
 .bg-img-2 {
-  background-image: "url(' + `${require("public/images/background-img/bg-img-2.png")}` + ')";
+  background-image: "url(' + `${require("images/background-img/bg-img-2.png")}` + ')";
 }
 
 /* line 136, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/theme-default.scss */
 .cta-bg-1 {
-  background-image: "url(' + `${require("public/images/background-img/bg-img-3.png")}` + ')";
+  background-image: "url(' + `${require("images/background-img/bg-img-3.png")}` + ')";
 }
 
 /* line 141, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/theme-default.scss */
@@ -1368,12 +1368,12 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image:"url(' + `${require("public/images/banner/banner.png")}` + ')";
+  background-image:"url(' + `${require("images/banner/banner.png")}` + ')";
 }
 
 /* line 4, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: "url(' + `${require("public/images/banner/banner_2.png")}` + ')";
+  background-image: "url(' + `${require("images/banner/banner_2.png")}` + ')";
   
 }
 
@@ -1926,7 +1926,7 @@ h3 {
 
 /* line 29, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_counter.scss */
 .home_details {
-  background-image: "url(' + `${require("public/images/banner/home_details.png")}` + ')";;
+  background-image: "url(' + `${require("images/banner/home_details.png")}` + ')";;
   background-size: cover;
   background-position: center center;
   padding: 140px 0;
@@ -2328,7 +2328,7 @@ h3 {
 
 /* line 61, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_testmonial.scss */
 .Information_area {
-  background-image:"url(' + `${require("public/images/banner/info_banner.png")}` + ')";;
+  background-image:"url(' + `${require("images/banner/info_banner.png")}` + ')";;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -3855,7 +3855,7 @@ span.ui-slider-handle.ui-corner-all.ui-state-default:focus {
 
 /* line 84, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_offers.scss */
 /* .video_bg {
-  background-image: url(public/images/video/video.png);
+  background-image: url(images/video/video.png);
 } */
 
 /* line 87, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_offers.scss */
@@ -4611,7 +4611,7 @@ span.ui-slider-handle.ui-corner-all.ui-state-default:focus {
 
 /* line 1, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 { 
-  background-image: "url(' + `${require("public/images/banner/bradcam.pn")}` + ')";
+  background-image: "url(' + `${require("images/banner/bradcam.pn")}` + ')";
 }
 
 /* line 4, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_bradcam.scss */
@@ -5341,12 +5341,12 @@ span.ui-slider-handle.ui-corner-all.ui-state-default:focus {
 
 /* line 36, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_emergency_contact.scss */
 .emergency_bg_1 {
-  background-image: "url(' + `${require("public/images/banner/emergency-1.png")}` + ')";
+  background-image: "url(' + `${require("images/banner/emergency-1.png")}` + ')";
 }
 
 /* line 39, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/_emergency_contact.scss */
 .emergency_bg_2 {
-  background-image: "url(' + `${require("public/images/banner/emergency-2.png")}` + ')";
+  background-image: "url(' + `${require("images/banner/emergency-2.png")}` + ')";
 }
 
 /*=================== contact banner start ====================*/

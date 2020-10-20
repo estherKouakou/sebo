@@ -68,7 +68,7 @@ export default function Header() {
                                 <div className="logo">
                                      <Link href="index.html">
                                         <a>
-                                            <img src="img/logo.png" alt=""/>
+                                            <img src="images/logo.png" alt=""/>
                                         </a>
                                     </Link>
                                 </div>
